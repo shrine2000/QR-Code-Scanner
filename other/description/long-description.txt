@@ -1,25 +1,3 @@
-
-22 July 2021
-------------------
-
-QR & Barcode Scanner app is the fastest QR code scanner / bar code scanner out there. QR & Barcode Scanner is an essential QR reader for every Android device.
-
-QR & Barcode Scanner / QR code reader is extremely easy to use; with quick scan built in simply point QR code scanner free app to QR or barcode you want to scan and QR scanner will automatically start scanning and QR scan it. No need to press any buttons, take photos or adjust zoom as barcode reader works automatically.
-
-QR & Barcode Scanner can scan and read all QR codes / barcode types including text, url, ISBN, product, contact, calendar, email, location, Wi-Fi and many more formats. After scan and automatic decoding user is provided with only the relevant options for individual QR or Barcode type and can take appropriate action. You can even use QR & Barcode Scanner to scan coupons / coupon codes to receive discounts and save some money.
-
-QR code scanner, barcode scanner app is also QR code generator in your pocket. Using QR generator is extremely easy to use, simply enter the data you wish on QR code and click to generate QR codes.
-
-QR codes are everywhere! Install qrcode reader app to scan QR code or to scan barcode on the go. Barcode & QR Scanner app is the only free scanner app you will ever need. Turn on the flashlight for scanning in the dark or use pinch to zoom to scan QRs far away.
-
-With barcode reader app you can also scan product barcodes. Scan with bar code reader in shops and compare prices with online prices to save money. QR & Barcode Scanner app is the only free QR code reader / barcode scanner you will ever need.
-
-Other functionality of QR code reader / QR code scanner: Create QR, Scan QR from image, Scan QR from Gallery, Share your contact info via QR, share images to scan from other apps, generate QR codes from clipboard content, change color, theme of the app, use dark mode, use Batch scan mode to scan multiple QR codes at once.
-
-
-22 June 2021
--------------------
-
 Want to generate QR code for website links, text, Wifi, business card or social accounts?
 Want to have a QR generator that can generate QR codes in your style and add logos to QR code for attracting more scanners?
 Want to generate QR codes with beautiful templates?
@@ -77,4 +55,4 @@ You can add the generated QR code to your pictures or posters directly with this
 History and Favorites
 This QR creator can easily manage the generated QR code and scanned QR code. The record you want to use in the future can be also saved as a template.
 
-If the QR Generator and QR Maker is helpful for you, please rate us 5 stars ⭐ ⭐ ⭐ ⭐ ⭐
+
