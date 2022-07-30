@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QR Code Scanner</string>
+    <string name="email">statussaveradfree2019@gmail.com</string>
+    <string name="title_activity_generate_qr_code">Generate</string>
+
+
+    <string name="instructions">DO TRY TESTING YOUR QR CODE USING SEVERAL READERS, INCLUDING SMARTPHONE CAMERA \nDO USE A HIGH CONTRAST COLOR COMBINATION BETWEEN THE CODE ITSELF AND THE BACKGROUND</string>
+
+    <string name="qr_faq">DON’T USE COLORS THAT ARE DIFFICULT TO SCAN. \n
+ - For instance, a bright yellow on a sunny surface may disappear from the QR code scanner.\n- You should also avoid monochromatic designs or using a complicated background design when placing a QR code, both of which make it more difficult to scan.</string>
+</resources>

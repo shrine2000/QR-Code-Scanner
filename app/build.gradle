@@ -1,0 +1,76 @@
+
+plugins {
+    id 'com.android.application'
+    id 'kotlin-android'
+    id 'com.google.android.gms.oss-licenses-plugin'
+
+}
+
+android {
+    compileSdkVersion 30
+    buildToolsVersion "30.0.3"
+
+    defaultConfig {
+        applicationId "qrcodereader.qrscanner.qrcodescanner.barcodescanner"
+        minSdkVersion 23
+        targetSdkVersion 30
+        versionCode 5
+        versionName "0.05"
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    kotlinOptions {
+        jvmTarget = '1.8'
+    }
+
+    android {
+        ndkVersion '21.3.6528147'
+    }
+}
+
+dependencies {
+
+    implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
+    implementation 'androidx.core:core-ktx:1.6.0'
+    implementation 'androidx.appcompat:appcompat:1.3.0'
+    implementation 'com.google.android.material:material:1.4.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
+    implementation 'androidx.navigation:navigation-fragment-ktx:2.3.5'
+    implementation 'androidx.navigation:navigation-ui-ktx:2.3.5'
+
+    testImplementation 'junit:junit:4.+'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.3'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
+
+    //External Libs
+    implementation 'com.afollestad.material-dialogs:core:3.3.0'
+    implementation 'com.budiyev.android:code-scanner:2.1.0'
+    implementation 'com.google.android.material:material:1.4.0'
+    implementation "androidx.recyclerview:recyclerview:1.2.1"
+    implementation 'com.afollestad:recyclical:1.1.1'
+    implementation 'com.github.fondesa:kpermissions:3.2.1'
+    implementation 'com.github.SumiMakito:AwesomeQRCode:1.2.0'
+    implementation 'com.afollestad.material-dialogs:color:3.3.0'
+    implementation 'com.github.dhaval2404:imagepicker:2.1'
+    implementation 'io.coil-kt:coil:1.2.2'
+    implementation 'com.afollestad.material-dialogs:input:3.3.0'
+    implementation 'com.afollestad.material-dialogs:color:3.3.0'
+    implementation "androidx.activity:activity-ktx:1.3.1"
+    implementation 'io.github.everythingme:overscroll-decor-android:1.1.1'
+    implementation 'com.google.android.gms:play-services-oss-licenses:17.0.0'
+    implementation 'com.bakhtiyor.gradients:gradients:0.1.0'
+    implementation 'com.google.android.play:core:1.10.0'
+    implementation 'com.google.android.play:core-ktx:1.8.1'
+}

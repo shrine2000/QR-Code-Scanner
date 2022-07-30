@@ -1,0 +1,25 @@
+<!--
+  ~ /* Copyright 2021 (C) Shrine Sabu - All Rights Reserved  This file is part of this project  " https://play.google.com/store/apps/details?id=qrcodereader.qrscanner.qrcodescanner.barcodescanner "  Unauthorized copying of this file, via any medium is strictly prohibited  Proprietary and confidential  Written by Shrine Sabu <shrine02sabu@gmail.com>, 2021 */
+  -->
+
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.QRCodeScanner" parent="Theme.MaterialComponents.DayNight">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="SeekBarTheme">
+        <item name="colorAccent">@color/white</item>
+    </style>
+    <style name="LicenseTheme" parent="Theme.AppCompat.Light.DarkActionBar"/>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /* Copyright 2021 (C) Shrine Sabu - All Rights Reserved  This file is part of this project  " https://play.google.com/store/apps/details?id=qrcodereader.qrscanner.qrcodescanner.barcodescanner "  Unauthorized copying of this file, via any medium is strictly prohibited  Proprietary and confidential  Written by Shrine Sabu <shrine02sabu@gmail.com>, 2021 */
+  -->
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:state_activated="false"
+        android:drawable="@drawable/ic_flash_disabled"
+        />
+    <item
+        android:state_activated="true"
+        android:drawable="@drawable/ic_flash_enabled"
+        />
+</selector>
